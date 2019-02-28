@@ -4,3 +4,4 @@
 - [cssSlider](https://chosenzhou.github.io/collect/cssSlider/index.html)
 - [hoverMaster](https://chosenzhou.github.io/collect/hoverMaster/index.html)
 - [backToTop](https://chosenzhou.github.io/collect/backToTop/index.html)
+- [xMarquee](https://chosenzhou.github.io/collect/xMarquee/xMarquee.html)
